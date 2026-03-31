@@ -22,7 +22,7 @@
 - Network Traffic Analysis (Wireshark)
 
 ### 💻 Technical
-- Basic Linux (Kali Linux)
+- Windows and Linux (Kali Linux)
 - Networking Fundamentals
 - Web Application Basics
 - Penetration Testing
