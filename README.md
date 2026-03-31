@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Manisha
 
-🔐 Aspiring SOC Analyst (L1) | Threat Detection | Incident Response  
-📍 Based in India  
+🔐 Aspiring SOC Analyst | Threat Detection | Incident Response  | VAPT
 
 ---
 
